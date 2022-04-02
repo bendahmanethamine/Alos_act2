@@ -22,11 +22,11 @@ Chai
 
 run the server by typing in the terminal:
 
-``` npm start ```
+``` npm install ```
 
 then
 
-```npm install```
+```npm start```
 
 then go to the url:
 
